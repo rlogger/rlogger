@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Grad student at USC's Robotic Embedded Systems Lab. Working on multi-agent RL, meta-learning, and functional computing paradigms in JAX. Also doing BCI research @ NeuroTech. Interested in physics-informed learning.
+
 <!--
 **rlogger/rlogger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
