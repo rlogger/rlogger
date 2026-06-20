@@ -1,1 +1,3 @@
 Grad student at USC's Robotic Embedded Systems Lab. Working on RL, meta-learning, and the functional paradigms underneath. Also doing BCI research @ NeuroTech. Interested in physics-informed learning and sound design.
+
+https://raj-singh.com
