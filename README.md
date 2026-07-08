@@ -1,1 +1,1 @@
-Working on RL, meta-learning, and the functional paradigms underneath. Also doing BCI research @ NeuroTech. General interest in physics-informed learning and sound design. Lab Affiliations: USC RESL, UCSC AIEA
+Currently a graduate student at USC Robotics and Embedded Systems Lab. Working on RL, meta-learning, and the functional paradigms underneath. Also doing BCI research @ NeuroTech. General interest in physics-informed learning and sound design. Lab Affiliations: UCSC Artificial Intelligence and Accountability Lab, USC RESL. 
