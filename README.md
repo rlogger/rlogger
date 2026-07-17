@@ -1,3 +1,4 @@
-Currently a graduate student at USC Robotics and Embedded Systems Lab. Also doing BCI research @ NeuroTech. General interest in reinforcement learning, physics-informed learning, and sound design. 
+Currently a graduate student in the Robotic Embedded Systems Laboratory (RESL) at USC. Also doing BCI research at NeuroTech. Interested in reinforcement learning, physics-informed learning, and biologically inspired computing.
 
-Lab Affiliations: UCSC Artificial Intelligence and Accountability Lab, USC RESL. 
+Lab affiliations: UCSC AI Ethics and Accountability (AIEA) Lab, USC RESL.
+
